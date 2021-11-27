@@ -9,28 +9,45 @@ ____
 
 ## Скриншоты FastQC
 
-**SRR3414629**
+### SRR3414629
 
 ![alt text](images/SRR3414629.png)
+____
 
-**SRR3414630**
+
+### SRR3414630
 
 ![alt text](images/SRR3414630.png)
+____
 
-**SRR3414631**
+
+### SRR3414631
 
 ![alt text](images/SRR3414631.png)
+____
 
-**SRR3414635**
+
+### SRR3414635
 
 ![alt text](images/SRR3414635.png)
+____
 
-**SRR3414636**
+
+### SRR3414636
 
 ![alt text](images/SRR3414636.png)
+____
 
-**SRR3414637**
+
+### SRR3414637
 
 ![alt text](images/SRR3414637.png)
 
 ____
+
+## Таблицы
+
+### Таблица со статистикой по каждому из 6-ти образцов
+
+![alt text](data/SRR3414637.png)
+
