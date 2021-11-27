@@ -49,5 +49,13 @@ ____
 
 ### Таблица со статистикой по каждому из 6-ти образцов
 
-![alt text](data/table1.png)
+![alt text](images/table1.png)
+
+### Вспомогательная таблица 1
+
+![alt text](images/table2.png)
+
+### Вспомогательная таблица 2
+
+![alt text](images/table3.png)
 
