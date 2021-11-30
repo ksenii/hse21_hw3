@@ -65,3 +65,23 @@ ____
 ## ЧАСТЬ 2
 
 https://colab.research.google.com/drive/1REucGbCWtC9Ml7QE6gXeW6j09EmiMk7s?usp=sharing
+
+### Тепловая карта
+![alt text](images/graph1.png)
+
+### MA-plot
+![alt text](images/graph2.png)
+
+
+### Пять графиков по наиболее значимо поменявшимся свою экспрессию генам
+![alt text](images/graph3_1.png)
+
+![alt text](images/graph3_2.png)
+
+![alt text](images/graph3_3.png)
+
+![alt text](images/graph3_4.png)
+
+![alt text](images/graph3_5.png)
+
+
