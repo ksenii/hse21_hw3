@@ -63,3 +63,5 @@ ____
 ____
 
 ## ЧАСТЬ 2
+
+https://colab.research.google.com/drive/1REucGbCWtC9Ml7QE6gXeW6j09EmiMk7s?usp=sharing
