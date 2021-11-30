@@ -59,3 +59,7 @@ ____
 
 ![alt text](images/table3.png)
 
+
+____
+
+## ЧАСТЬ 2
